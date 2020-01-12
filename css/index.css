@@ -1,13 +1,3 @@
-@font-face{
-	font-family: 'Goudy';
-	font-style: normal;
-	src: url('GoudyStM-webfont.ttf') format('truetype');
-}
-@font-face {
-	font-family: 'Goudy';
-	font-style: italic;
-	src: url('GoudyStM-Italic-webfont.ttf') format('truetype');
-}
 
 body{
 	margin:0;
