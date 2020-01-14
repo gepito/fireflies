@@ -26,7 +26,7 @@ közel állók megihletik
 
 Először egy kis csoport szíve kezd egy ütemre dobbanni.
 
-~~Ma milyen sziporkával bűvölsz el bogárka? ~~
+~~Ma milyen sziporkával bűvölsz el bogárka? ~~ 
 
 Ma milyen sziporkával bűvölsz el bogaram? 
 
