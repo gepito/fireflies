@@ -12,7 +12,7 @@
 
 ~~Ha egy Délkelet-Ázsiai folyópartra tévedsz valamikor napnyugta után, lenyűgöző látványban lehet részed - a thaiföldi szentjánosbogár jóvoltából:~~
 
-Ha alkonyatkor egy Délkelet-Ázsiai folyópartra tévedsz, lenyűgöző látványban lehet részed a thaiföldi szentjánosbogár jóvoltából: 
+Lenyűgöző látványban lehet részed a thaiföldi szentjánosbogár jóvoltából ha az alkonyat egy Délkelet-Ázsiai folyóparton ér:
 
 ~~Egy picivel korábban,~~
 
