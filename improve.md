@@ -30,4 +30,6 @@ Először egy kis csoport szíve kezd egy ütemre dobbanni.
 
 Ma milyen sziporkával bűvölsz el bogaram? 
 
+~~ugyanabban az ütemben, elragadó összhangban, kápráztató villanásban. ~~
 
+ugyanabban az elsőprő ütemben, magávalragadó összhangban, kápráztató villanásban. 
