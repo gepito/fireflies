@@ -4,7 +4,7 @@
   
 ~~"A tudósok azonban kamerákkal és számológépekkel a kézben, rendületlenül haladtak."~~
   
-  "A tudósok azonban kamerákkal és számológépekkel a kézben kitartóan folytatták a kutatást."
+  "A tudósok azonban kamerákkal és számológépekkel a kézben kitartóan/odaadóan? folytatták a kutatást."
 
 ~~"2: ez minden"~~
   
