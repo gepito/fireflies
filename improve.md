@@ -18,4 +18,16 @@ Ha alkonyatkor egy Délkelet-Ázsiai folyópartra tévedsz, lenyűgöző látvá
 
 Picivel előbb
 
+~~közel állók pedig megihletik~~
+
+közel állók megihletik
+
+~~Először egy kis csoport kezd közösen villogni.~~
+
+Először egy kis csoport szíve kezd egy ütemre dobbanni.
+
+~~Ma milyen sziporkával bűvölsz el bogárka? ~~
+
+Ma milyen sziporkával bűvölsz el bogaram? 
+
 
