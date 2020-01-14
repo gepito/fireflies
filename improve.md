@@ -11,9 +11,11 @@
   "2: ennyi az egész!"
 
 ~~Ha egy Délkelet-Ázsiai folyópartra tévedsz valamikor napnyugta után, lenyűgöző látványban lehet részed - a thaiföldi szentjánosbogár jóvoltából: ~~
+
 Ha alkonyatkor egy Délkelet-Ázsiai folyópartra tévedsz, lenyűgöző látványban lehet részed a thaiföldi szentjánosbogár jóvoltából: 
 
 ~~Egy picivel korábban,~~
+
 Picivel előbb,
 
 
